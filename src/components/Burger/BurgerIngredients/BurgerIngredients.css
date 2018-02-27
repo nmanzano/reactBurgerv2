@@ -113,6 +113,14 @@
     border-radius: 20px;
 }
 
+.Ketchup {
+    width: 85%;
+    height: 7%;
+    margin: 2% auto;
+    background: linear-gradient(red, red);
+    border-radius: 20px;
+}
+
 .Bacon {
     width: 80%;
     height: 3%;
